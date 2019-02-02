@@ -1,3 +1,12 @@
+## What have I learnt working with this project
+
+1. Understanding API documents
+2. How to implement API's into my applications
+3. Working with JSON
+4. Checking data security overrides
+5. Using data retrieved from API and update app accordingly
+6. MVC Model
+
 # Clima
 Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Clima App
 
